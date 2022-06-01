@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc9e1175.css",
-    "main.js": "/static/js/main.ed105dd9.js",
-    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
-    "index.html": "/index.html",
-    "main.cc9e1175.css.map": "/static/css/main.cc9e1175.css.map",
-    "main.ed105dd9.js.map": "/static/js/main.ed105dd9.js.map",
-    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+    "main.css": "https://equable23025.github.io/lseg-question-1/static/css/main.cc9e1175.css",
+    "main.js": "https://equable23025.github.io/lseg-question-1/static/js/main.05fb4708.js",
+    "static/js/787.d3befce1.chunk.js": "https://equable23025.github.io/lseg-question-1/static/js/787.d3befce1.chunk.js",
+    "index.html": "https://equable23025.github.io/lseg-question-1/index.html",
+    "main.cc9e1175.css.map": "https://equable23025.github.io/lseg-question-1/static/css/main.cc9e1175.css.map",
+    "main.05fb4708.js.map": "https://equable23025.github.io/lseg-question-1/static/js/main.05fb4708.js.map",
+    "787.d3befce1.chunk.js.map": "https://equable23025.github.io/lseg-question-1/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc9e1175.css",
-    "static/js/main.ed105dd9.js"
+    "static/js/main.05fb4708.js"
   ]
 }
