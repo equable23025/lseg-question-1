@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+}
+
+.left-panel {
+  flex: 0 0 200px;
+  height: 100vh;
+}
+
+.middle-panel {
+  flex-grow: 1;
+  min-width: 100px;
+  height: 100vh;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+
+.right-panel {
+  flex: 0 0 300px;
+  height: 100vh;
+}
